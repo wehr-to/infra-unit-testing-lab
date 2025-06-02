@@ -38,6 +38,6 @@ Most infrastructure teams validate through hope and rollback. This project prove
 - Security engineers validating control enforcement
 - Cloud engineers provisioning Terraform in pipelines
 - Blue teamers ensuring hardened defaults stay enforced
-- Students and career switchers proving CS-adjacent testing rigor
+
 
 
